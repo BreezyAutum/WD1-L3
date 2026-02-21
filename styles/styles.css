@@ -1,0 +1,61 @@
+body, a
+{
+    color: #00376c;
+}
+body
+{
+    width: 600px;
+    margin: 0;
+    font-family: Lucida Sans;
+}
+header, .story, .locations, .services, footer
+{
+    margin-bottom: 40px;
+}
+header, footer
+{
+    background-color: #c7e3ff;
+}
+header, h2, footer
+{
+    text-align: center;
+}
+header
+{
+    border-bottom: 6px solid #7b7b7b;
+    line-height: 80px;
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+h2, h3
+{
+    border-bottom: 2px solid #1577ff;
+}
+h3
+{
+    display: inline;
+}
+.story, .locations, .services, footer
+{
+    padding: 10px;
+}
+.story, .locations, .services
+{
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #e7e7e7;
+}
+.story p, footer
+{
+    font-style: italic;
+}
+img
+{
+    width: 150px;
+}

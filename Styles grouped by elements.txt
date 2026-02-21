@@ -1,0 +1,63 @@
+Styling and Layout
+
+body:
+width 600px
+centered by setting margin to 0
+font family- -Lucida sans
+colour #00376c
+
+header:
+solid 6px border-bottom colour #7b7b7b
+80 px line height
+text align center
+background colour #c7e3ff
+margin bottom 40px
+
+anchors:
+#00376c
+no text decoration
+hover state sets text decoration to underline
+
+H2:
+solid 2 px border bottom colour #7b7b7b
+text align center
+
+H3:
+#1577ff
+solid 2px border-bottom colour #1577ff
+inline display property
+
+.story:
+10px padding top and bottom
+15px padding on the left and right
+margin bottom 40px
+bg colour #e7e7e7
+
+.locations:
+10px padding top and bottom
+15px padding on the left and right
+margin bottom 40px
+bg colour #e7e7e7
+
+.services:
+10px padding top and bottom
+15px padding on the left and right
+margin bottom 40px
+bg colour #e7e7e7
+- p:
+italic
+
+image:
+width 150px
+
+footer:
+italic
+text align center
+bg colour #c7e3ff
+magin-bottom 40px
+10 px padding
+
+<!--
+Fall Out Boy remixed Hand Crushed By A Mallet!?!??!
+https://music.youtube.com/watch?v=K6NZef1pKm4&si=Y9MNDP45aKKWgU1K
+ -->
